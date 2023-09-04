@@ -24,7 +24,7 @@ $𝐿(𝐴)$：A collection of concepts related to the concept $𝐴$;
 
 The value of $𝑅𝑒𝑓𝐷(𝐴,𝐵)$ is between -1 and 1, the closer to 1, the greater the possibility that $B$ is the priority of $A$, and the closer to -1, the greater the possibility of $A$ being the priority of $B$.
 
-# 2. Selection of concept $𝑨$ related concept set $𝑳(𝑨)$.
+# 2. Selection of concept $𝑨$ related concept set $𝑳(A)$.
 
 Sort the correlation coefficient of each concept $𝑐_𝑖$ and other concepts, select the correlation coefficient value $𝑅_𝑖$ with index 10 as the threshold of this concept, and obtain the threshold $𝑅$ by summing the thresholds of all concepts and averaging.
 
